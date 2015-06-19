@@ -8,7 +8,7 @@ categories: gadget
 
 # 애플 와치(Apple Watch) 사용기
 
-![watch](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+![watch](https://raw.githubusercontent.com/sakim/sakim.github.com/master/images/2015-06-20-3-weeks-with-the-apple-watch.jpg)
 
 애플 와치를 3주 정도 사용했다. 사용자와 개발자 관점에서 간단한 사용기를 남겨보려한다.
 
