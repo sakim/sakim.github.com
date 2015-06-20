@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://hangaroa.net"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-42740592-1
 
 # Optional features
 animated:           false
@@ -16,7 +16,7 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: hangaroa
 
 # Social icons
 show_social_icons: false
